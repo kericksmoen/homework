@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>MINDBODY Homework - Kristin Ericksmoen</title>
+    <meta name="description" content="Challenge accepted." />
+    <meta name="keywords" content="" />
+    <style>
+    body { background: #d6d5c8; }
+    #mainContentContainer { background: #000; width: 100%; height: 500px; }
+    
+    </style>
+</head>
+<body>
+
+
+<div id="mainContentContainer">
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
