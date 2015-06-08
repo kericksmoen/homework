@@ -8,7 +8,7 @@
     <meta name="keywords" content="" />
     <style>
     body { background: #d6d5c8; }
-    #mainContentContainer { background: #000; width: 100%; height: 500px; }
+    #mainContentContainer { background: #fff; width: 100%; height: 500px; }
     
     </style>
 </head>
